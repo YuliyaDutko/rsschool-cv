@@ -11,3 +11,6 @@ I am attentive and responsible, diligent and assiduous, communicative and non-co
 ## Education:
 Belarusian State Economic University, faculty of Accounting and Economics, specialty "Accounting, Analysis and Audit", graduated in 2012.
 IT Shatle, HTML and CSS courses, graduated in 2021.
+## Languages:
+- Russian - native speaker.
+- English - B1.
