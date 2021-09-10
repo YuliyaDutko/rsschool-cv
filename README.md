@@ -1,1 +1,1 @@
-https://YuliyaDutko.github.io/rsschool-cv/cv
+https://yuliyadutko-html-css-git.netlify.app/
